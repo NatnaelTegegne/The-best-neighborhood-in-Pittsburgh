@@ -26,7 +26,7 @@ Contains monthly crime report data for each Pittsburgh neighborhood.
 
 #### **Mason's Dataset**  
 Contains the value on the Air Quality Index (AQI) in each Pittsburgh neighborhood.  
-- **Link:** [Allegheny County Air Quality] (https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b)
+- **Link:** [Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b)
 
 ---
 
